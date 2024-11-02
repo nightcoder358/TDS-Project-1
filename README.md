@@ -3,11 +3,11 @@
 ## Overview
 This project analyzes GitHub users located in Tokyo with over 200 followers. The goal is to extract valuable insights from user profiles and their repositories using the GitHub API.
 
-# -->Data was scraped from the GitHub API by filtering users in Tokyo,Japan with over 200 followers and fetching their most recent repositories.
+ ##1. Data was scraped from the GitHub API by filtering users in Tokyo,Japan with over 200 followers and fetching their most recent repositories.
 
-# -->Majority of the repositories from Tokyo are written in JavaScript but surprisingly Rust is seen in many repositories, mainly newer users. Also, Assembly happens to be the language with highest average stars per repository. Surprising!!!
+ ##2. Majority of the repositories from Tokyo are written in JavaScript but surprisingly Rust is seen in many repositories, mainly newer users. Also, Assembly happens to be the language with highest average stars per repository. Surprising!!!
 
-# -->Developers in Tokyo should focus on collaboration in JavaScript-based and Rust-based projects to leverage the local expertise and community.
+ ##3. Developers in Tokyo should focus on collaboration in JavaScript-based and Rust-based projects to leverage the local expertise and community.
 
 
 ## Key Insights
